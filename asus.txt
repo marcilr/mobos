@@ -41,3 +41,8 @@ i/o ports:  1 x VGA Port
             NOTE: No eSATA port
 size:       ATX-sized (12"x9.6), (EEB mounting hole locations) 
 
+
+Links
+=====
+Asus Server Motherboards
+https://www.newegg.com/ASUS-Server-Motherboards/BrandSubCat/ID-1315-302
