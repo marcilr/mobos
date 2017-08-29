@@ -6,6 +6,26 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Asus motherboards
 
 
+ROG RAMPAGE VI EXTREME
+======================
+cpu:      X-Series Processor 79xx, 78xx Series Processors
+         Supports Intel 14 nm CPU
+socket:  Intel Socket 2066 Core
+chipset: Build in Intel X299
+ram:     8x DIMM, Max. 128GB, DDR4
+net:     1x Aquantia AQC-107 10G
+slots:   4 x PCIe 3.0 x16 
+         M.2_2 (DIMM.2) 
+storage: 1x M.2 Socket 3
+	 6x SATA 6Gb/s
+wifi:    Wi-Fi 802.11 a/b/g/n/ac+ WiGig 802.11ad
+         Supports dual band frequency 2.4/5 GHz
+         Up to 4600Mbps transfer speed
+i/o:     Bluetooth V4.1
+         Optical S/PDIF out port(s)
+price:   $479.99 (amazon prime: August 28, 2017)
+
+
 Z9PA-U8
 =======
 cpu:        E5-2600 and E5-1600 v2 product family
