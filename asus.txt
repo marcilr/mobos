@@ -1,0 +1,23 @@
+asus.txt
+Created Tue Aug 29 14:20:25 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Asus motherboards
+
+
+Z9PA-U8
+=======
+cpu:        E5-2600 and E5-1600 v2 product family
+socket:     1x Socket 2011
+core logic: Intel C602-A PCH
+ram:        8x DIMM (max 256GB)
+slots:      7x total (1x PCI 32, 3x PCI-E x8, 2x PCI-E x16,
+            1x MIO for audio card)
+sata:       4 x SATA2 3Gb/s ports
+            2 x SATA3 6Gb/s ports
+i/o ports:  1 x VGA Port
+            2 x RJ-45 + 1 x Mgmt LAN
+            NOTE: No eSATA port
+size:       ATX-sized (12"x9.6), (EEB mounting hole locations) 
+
