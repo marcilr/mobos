@@ -1,0 +1,48 @@
+requirements.txt
+Created Tue Aug 29 14:11:01 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Requirements
+
+
+cpu: Intel 3.0Ghz or better
+     4-core or better
+     NOTE: Think intel is virtualizing better these days
+
+     Intel Core i7-3770 @ 3.40GHz
+     Intel Core i7-6700K @ 4.00GHz - Price performance ...
+
+socket: LGA1150
+
+
+ram: 256GB or better
+
+net: 2x 1 GigE ethernet
+       or
+     2x 10 GigE ethernet
+
+i/o: 6x onboard sata or better
+     external sata connector
+    
+
+Links
+=====
+Intel Core i7-4790K @ 4.00GHz
+Socket: LGA1150
+Clockspeed: 4.0 GHz
+Turbo Speed: 4.4 GHz
+No of Cores: 4 (2 logical cores per physical)
+Typical TDP: 88 W
+price: $416.66 (amazon - August 29, 2017)
+https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-4790K+%40+4.00GHz&id=2275
+
+Intel Core i7-6700K @ 4.00GHz
+Socket: LGA1151
+Clockspeed: 4.0 GHz
+Turbo Speed: 4.2 GHz
+No of Cores: 4 (2 logical cores per physical)
+Typical TDP: 95 W
+price: $352.60 (amazon - August 29, 2017)
+https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-6700K+%40+4.00GHz
+
