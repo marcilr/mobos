@@ -22,6 +22,11 @@ o Mini-ITX would be nice
 o No wifi needed
 o Intelligent Platform Management Interface (IPMI)
 
+o PCI-E x1 (Gen3 x1 Link)
+  PCI-E x8 (Gen3 x4 Link)
+  PCI-E x16 (Gen3 x16 Link)
+
+o DVI-D for workstation display would be good.
 
 Nice features:
 o mini-SAS HD port (4x SATA 6Gb/s)  <=== i.e. one small square port for 4x SATA 6Gb/s
@@ -79,6 +84,11 @@ Quad LAN with Platinum Grade Power Saving Technology
 * Quad Intel I210 Server Class GbE delivering high networking bandwidth
 * Platinum-grade power efficiency with ultra longevity solid CAP & Beat Thermal Choke III
 https://www.asus.com/us/Commercial-Servers-Workstations/P10S-C-4L/
+
+
+P10S-M WS/IPMI-O
+================
+Might be good workstation board.  However, 64GB RAM max.
 
 
 P10S-I
