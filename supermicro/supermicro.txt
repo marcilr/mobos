@@ -1,0 +1,35 @@
+supermicro.txt
+Created Fri Sep  8 11:26:34 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supermicro motherboards
+
+
+"Supermicro's X10 motherboards are very popular in the FreeNAS community, and one offering,
+the X10SL7[1], includes an integrated LSI SAS controller, boosting storage connectivity from
+6 to a whopping 14 ports!  But this is a Micro-ATX board, meaning it needs a larger enclosure."
+--fosketts.net/
+
+
+
+Links
+=====
+[1] X10SL7
+o LGA1150
+o Memory: 4x 240pin DDR3-1600 DIMM Slots, ECC/Non-ECC, Unbuffered, Max Capacity of 32GB
+  Ouch: Max RAM of only 32GB!                                                             <===
+o Slots: 1x PCI-Express 3.0 x8 Slots (in x16), 1x PCI-Express 2.0 x4 Slots (in x8)
+o SATA: 2x SATA3 Ports, 4x SATA2 Ports, 8x SAS2 ports
+o Form Factor: microATX (uATX)
+Comments say it works great with FreeNAS.
+price: $234.49 (amazon - September 8, 2017)
+https://www.amazon.com/Supermicro-X10SL7-F-uATX-DDR3-Motherboard/dp/B00D65EHQY/ref=as_li_ss_tl?ie=UTF8&qid=1470249599&sr=8-1&keywords=X10SL7&linkCode=ll1&tag=foskettblog-20&linkId=e4a93dd7232db39ac2b3cf46b39ff342
+https://www.newegg.com/Product/Product.aspx?Item=N82E16813182821&nm_mc=KNC-GoogleKWLess&cm_mmc=KNC-GoogleKWLess-_-DSA-_-CategoryPages-_-NA&gclid=CjwKCAjw_8jNBRB-EiwA96Yp1lY2p1fuKmr4vDDcptTvu5L0AkWAMB-jhlbZySazQ9_CzcnFOZjsZhoCJ3AQAvD_BwE&gclsrc=aw.ds
+
+FreeNAS Hardware Decisions
+http://blog.fosketts.net/2016/08/04/freenas-build-supermicro-x10sl7-intel-haswell-xeon-ecc-ram/
+
+Supermicro
+https://www.supermicro.com/index.cfm
+
