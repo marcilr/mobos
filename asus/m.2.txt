@@ -1,0 +1,18 @@
+m.2.txt
+Created Fri Sep  8 10:42:17 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+M.2, formerly known as the Next Generation Form Factor (NGFF), is a specification for
+internally mounted computer expansion cards and associated connectors.  It replaces the
+mSATA standard, which uses the PCI Express Mini Card physical card layout and connectors.
+--wikipedia.org
+
+
+Think two M.2 1TB cards for storage would rock.
+
+Links
+=====
+M.2
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/M.2
