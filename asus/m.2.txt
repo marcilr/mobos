@@ -11,6 +11,11 @@ mSATA standard, which uses the PCI Express Mini Card physical card layout and co
 
 Think two M.2 1TB cards for storage would rock.
 
+Specs:
+  2242
+  2280
+
+
 Links
 =====
 M.2
