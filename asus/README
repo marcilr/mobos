@@ -1,3 +1,4 @@
+
 README
 Created Fri Sep  8 10:36:50 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
@@ -8,6 +9,11 @@ Filelist
 asus.txt
   Asus motherboards
   https://www.asus.com/
+
+ipmi.txt
+  Intelligent Platform Management Interface (IPMI)
+  From Wikipedia, the free encyclopedia
+  https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface
 
 m.2.txt
   M.2, formerly known as the Next Generation Form Factor (NGFF), is a specification for
