@@ -6,6 +6,10 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Asus motherboards
 
 
+Nice features:
+o mini-SAS HD port (4x SATA 6Gb/s)  <=== i.e. one small square port for 4x SATA 6Gb/s
+
+
 ROG RAMPAGE VI EXTREME
 ======================
 cpu:      X-Series Processor 79xx, 78xx Series Processors
@@ -24,6 +28,21 @@ wifi:    Wi-Fi 802.11 a/b/g/n/ac+ WiGig 802.11ad
 i/o:     Bluetooth V4.1
          Optical S/PDIF out port(s)
 price:   $479.99 (amazon prime: August 28, 2017)
+
+
+P10S-C/4L
+=========
+Quad LAN with Platinum Grade Power Saving Technology
+* Intel LGA1151 socket
+* Intel C232 chipset
+* 1x mini-SAS HD port (4x SATA 6Gb/s)
+* 4 DIMM up to 64GB, DDR4 2133 ECC/non-ECC UDIMMM
+* 2x M.2 Socket, up to 2280
+* Dual M.2 build RAID0 for better performance
+* PCI support extend life cycle for legacy device
+* Quad Intel I210 Server Class GbE delivering high networking bandwidth
+* Platinum-grade power efficiency with ultra longevity solid CAP & Beat Thermal Choke III
+https://www.asus.com/us/Commercial-Servers-Workstations/P10S-C-4L/
 
 
 Z9PA-U8
