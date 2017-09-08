@@ -6,8 +6,44 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Asus motherboards
 
 
+Requirements:
+o 256GB RAM capacity
+  --Asus Z9PA-U8
+    Intel Xeon processor E5-2600 and E5-1600 product family
+    1x socket 2011
+    8x DDR3 1866*/1600/1333/1066 RDIMM, up to 256GB
+    No M.2 slots    
+    https://www.asus.com/us/Commercial-Servers-Workstations/Z9PAU8/
+o 2x M.2 Type 2242 or ???
+o 6x SATA 6Gb/s ports
+o USB 3.0 ports
+o VGA header onboard
+o Mini-ITX would be nice
+o No wifi needed
+o Intelligent Platform Management Interface (IPMI)
+
+
 Nice features:
 o mini-SAS HD port (4x SATA 6Gb/s)  <=== i.e. one small square port for 4x SATA 6Gb/s
+
+o SATA 6Gb/s ports
+o USB 3.0
+o VGA header onboard
+
+
+Asus PIKE cards (SAS controller)
+================================
+ASUS PIKE 2008 8-port SAS2 6G RAID card 
+ASUS PIKE 2008/IMR 8-port SAS2 6G RAID card
+ASUS PIKE 2108 8-port SAS2 6G RAID card 
+ASUS PIKE 2208 8-port SAS 6G HW RAID card 
+ASUS PIKE 2308 8-port SAS 6G RAID card
+
+NOTE: Read like PIKE II 3108 Series can be configured for JBOD use:
+      PIKE II 3108 Series
+      PIKE II 3108-8i
+      PIKE II 3108-4i4e
+      https://dlsvr04.asus.com/pub/ASUS/server/RAID/PIKE_3108/Manual/E10156_PIKE_II_3108_Series_WEB.pdf
 
 
 ROG RAMPAGE VI EXTREME
@@ -43,6 +79,17 @@ Quad LAN with Platinum Grade Power Saving Technology
 * Quad Intel I210 Server Class GbE delivering high networking bandwidth
 * Platinum-grade power efficiency with ultra longevity solid CAP & Beat Thermal Choke III
 https://www.asus.com/us/Commercial-Servers-Workstations/P10S-C-4L/
+
+
+P10S-I
+======
+Best Storage and High Density Computing Candidate
+* Streamline airflow design with smallest Mini-ITX small form factor
+* Rich I/O capability with 6 SATA3,1 M.2 Type 2242 and 3 USB3.0 support
+* Platinum-grade power efficiency with ultra longevity solid CAP & Beat Thermal Choke III
+* Complete remote management saving time and efforts
+NOTE: Only 1x M.2 slot
+https://www.asus.com/us/Commercial-Servers-Workstations/P10S-I/
 
 
 Z9PA-U8
