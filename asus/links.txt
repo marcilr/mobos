@@ -8,6 +8,10 @@ Asus related links
 
 Links
 =====
+Advantages of ECC Memory
+Written on November 5, 2013 by Matt Bach
+https://www.pugetsystems.com/labs/articles/Advantages-of-ECC-Memory-520/
+
 Intelligent Platform Management Interface
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface
