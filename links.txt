@@ -4,3 +4,13 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Motherboard related links
+
+
+Links
+=====
+The Best Wireless Routers That Can Run DD-WRT
+Rolling your own router using OpenVPN and DD-WRT with one of these
+compatible wireless routers may not be as simple as buying a closed
+router platform, but it offers distinct benefits in virtual private
+networking (VPN), security, and customization.
+https://www.pcmag.com/roundup/351724/the-best-wireless-routers-that-can-run-dd-wrt

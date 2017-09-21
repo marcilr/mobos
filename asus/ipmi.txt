@@ -1,0 +1,30 @@
+ipmi.txt
+Created Fri Sep  8 11:00:43 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Intelligent Platform Management Interface
+From Wikipedia, the free encyclopedia
+
+
+The Intelligent Platform Management Interface (IPMI) is a set of computer interface
+specifications for an autonomous computer subsystem that provides management and monitoring
+capabilities independently of the host system's CPU, firmware (BIOS or UEFI) and operating
+system.  IPMI defines a set of interfaces used by system administrators for out-of-band
+management of computer systems and monitoring of their operation.  For example, IPMI provides
+a way to manage a computer that may be powered off or otherwise unresponsive by using a network
+connection to the hardware rather than to an operating system or login shell.
+
+The specification is led by Intel and was first published on September 16, 1998.  It is supported
+by more than 200 computer system vendors, such as Cisco, Dell, Hewlett-Packard, Intel, NEC
+Corporation, SuperMicro and Tyan.[1]
+
+
+Links
+=====
+[1] "Intelligent Platform Management Interface; Adopters list". Intel. Retrieved 9 August 2014.
+http://www.intel.com/content/www/us/en/servers/ipmi/ipmi-adopters-list.html
+
+Intelligent Platform Management Interface
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface
