@@ -6,6 +6,13 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Asus motherboards
 
 
+Z170-DELUXE
+===========
+Wi-Fi 802.11 a/b/g/n/ac
+Looks good for wireless router buildup
+https://www.asus.com/us/Motherboards/Z170-DELUXE/
+
+
 ROG RAMPAGE VI EXTREME
 ======================
 cpu:      X-Series Processor 79xx, 78xx Series Processors
@@ -46,3 +53,7 @@ Links
 =====
 Asus Server Motherboards
 https://www.newegg.com/ASUS-Server-Motherboards/BrandSubCat/ID-1315-302
+
+Asus wireless routers
+Great selection
+https://www.asus.com/us/Networking/Wireless-Routers-Products/
