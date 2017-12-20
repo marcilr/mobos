@@ -22,7 +22,7 @@ https://www.supermicro.com/products/motherboard/xeon/c220/x10sll-f.cfm
 Supermicro X10SRL-F   <===
 o Single socket R3 (LGA 2011) supports
   Intel Xeon processor E5-2600
-  v4/v3 and E5-1600 v4†/ v3 family
+  v4/v3 and E5-1600 v4/v3 family
 o Intel C612 chipset
 o Up to 1TB ECC 3DS LRDIMM, up to
   DDR4- 2400MHz; 8x DIMM slots
