@@ -45,6 +45,11 @@ price: $248.99 (December 20, 2017)
 https://www.newegg.com/Product/Product.aspx?Item=N82E16813182927
 
 
+Intel Xeon E5-1650 v4 Hexa-core (6 Core) 3.60 GHz Processor
+Socket LGA 2011-v3
+price: $662.54 (amazon - December 20, 2017)
+https://www.amazon.com/Intel-Xeon-E5-1650-Hexa-core-Processor/dp/B01GRDS5NC
+
 Intel Xeon E5-1650 v4 Broadwell 3.6 GHz LGA 2011-3
 140W BX80660E51650V4 Server Processor
 14 nm Broadwell
