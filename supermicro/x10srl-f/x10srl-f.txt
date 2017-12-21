@@ -12,9 +12,8 @@ o brand:         Supermicro
 o model:         MBD-X10SRL-F-O
 o cpu:           Single socket R3 (LGA 2011) supports
                  Intel Xeon processor E5-2600 v3 and E5-1600 v3 family
-o socket:        LGA 2011
-                 Single socket R3 (LGA 2011) supports
-                 Intel Xeon processor E5-2600 v4 / v3 and E5-1600 v4 / v3 family
+o socket:        Single socket R3 (LGA 2011)
+                 Supports Intel Xeon processor E5-2600 v4 / v3 and E5-1600 v4 / v3 family
 o chipset:       Intel X612
 o core/cache:    Up to 18 Cores / Up to 45MB Cache
 o ram:           8x 288Pin DDR 2133MHz
@@ -46,23 +45,6 @@ dimensions:      12" x 9.6", (30.5cm x 24.4cm)
 
 --newegg.com
 
-Features
-========
-o Single socket R3 (LGA 2011) supports
-  Intel Xeon processor E5-2600
-  v4/v3 and E5-1600 v4/v3 family
-o Intel C612 chipset
-o Up to 1TB ECC 3DS LRDIMM, up to
-  DDR4- 2400MHz; 8x DIMM slots
-o 7x PCI-E slots total:
-  2 PCI-E 3.0 x8, 2 PCI-E 3.0 x8 (in x16),
-  2 PCI-E 3.0 x4 (in x8) or 1 x8 + 1 x0
-  (auto-switch), & 1 PCI-E 2.0 x4 (in x8)
-o Intel i210 Dual port GbE LAN
-o 10x SATA3 (6Gbps) via C612
-o 1x VGA, 2x COM, 1x TPM
-o 4x USB 3.0 ports, 8x USB 2.0 ports
-o 2x SuperDOM with built-in power
 
 Memory
 ======
