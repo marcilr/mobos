@@ -51,6 +51,8 @@ o back connectors: COM1
                    UID Sitch
   --pdf/MNL-1585.pdf, p. 2-17
 
+power:           24-Pin ATX Main PWR
+                 --pdf/MNL-1585.pdf, p. 2-26
 
 form factor:     ATX
 dimensions:      12" x 9.6", (30.5cm x 24.4cm)
