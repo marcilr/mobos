@@ -25,6 +25,10 @@ o High-end CPU w/ ECC support
 price: $629.99 (December 20, 2017)
 https://www.newegg.com/Product/Product.aspx?Item=274-000A-00083&cm_re=xeon_e5_1650_v4-_-274-000A-00083-_-Product
 
+Raid Setup on ESXI 6 on Supermicro MB
+Some interesting details here
+https://communities.vmware.com/thread/533586
+
 Supermicro X10SRL-F
 o Single socket R3 (LGA 2011) supports
   Intel Xeon processor E5-2600
