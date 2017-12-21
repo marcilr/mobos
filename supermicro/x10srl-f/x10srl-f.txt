@@ -49,6 +49,8 @@ o back connectors: COM1
                    LAN2
                    VGA Port
                    UID Sitch
+  --pdf/MNL-1585.pdf, p. 2-17
+
 
 form factor:     ATX
 dimensions:      12" x 9.6", (30.5cm x 24.4cm)
@@ -62,7 +64,7 @@ The X10SRL-F supports eight ECC DDR4 RDIMM/LRDIMM at 2400 MHz (max.)
 memory (1 DPC) up to 256GB RDIMM or 512GB LRDIMM. Populating these DIMM
 modules with a pair of memory modules of the same type and size will result in
 interleaved memory, which will improve memory performance.
-pdf/MNL-1585.pdf, p. 2-14
+--pdf/MNL-1585.pdf, p. 2-14
 
 
 Whats in the box
