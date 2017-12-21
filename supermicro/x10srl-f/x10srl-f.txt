@@ -64,6 +64,14 @@ o 1x VGA, 2x COM, 1x TPM
 o 4x USB 3.0 ports, 8x USB 2.0 ports
 o 2x SuperDOM with built-in power
 
+Memory
+======
+The X10SRL-F supports eight ECC DDR4 RDIMM/LRDIMM at 2400 MHz (max.)
+memory (1 DPC) up to 256GB RDIMM or 512GB LRDIMM. Populating these DIMM
+modules with a pair of memory modules of the same type and size will result in
+interleaved memory, which will improve memory performance.
+pdf/MNL-1585.pdf, p. 2-14
+
 
 Whats in the box
 ================
