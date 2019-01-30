@@ -1,0 +1,10 @@
+udoo-bolt.txt
+Created Wed Jan 30 09:06:05 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+udoo bolt             <=== Machine
+5.2.22r126460 (x86)
+
+From yellow note - Wed Jan 30, 2019
+
