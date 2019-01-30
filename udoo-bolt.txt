@@ -8,3 +8,9 @@ udoo bolt             <=== Machine
 
 From yellow note - Wed Jan 30, 2019
 
+
+
+Links
+=====
+UDOO BOLT: Raising the Maker World to the Next Level
+https://www.kickstarter.com/projects/udoo/udoo-bolt-raising-the-maker-world-to-the-next-leve
