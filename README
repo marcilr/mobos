@@ -20,3 +20,8 @@ requirements.txt
 supermicro/
   Supermicro motherboards
   https://www.supermicro.com/index.cfm
+
+udoo-bolt.txt
+  udoo bolt                         
+  5.2.22r126460 (x86)
+
