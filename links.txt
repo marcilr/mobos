@@ -23,3 +23,17 @@ compatible wireless routers may not be as simple as buying a closed
 router platform, but it offers distinct benefits in virtual private
 networking (VPN), security, and customization.
 https://www.pcmag.com/roundup/351724/the-best-wireless-routers-that-can-run-dd-wrt
+
+TS-4900
+WiFi & Bluetooth enabled 1 GHz i.MX6 Computer Module
+Lifecycle: Fully Developed Product
+Released: May 2015
+Guaranteed Availability: 2027
+o 1 GHz Single or Quad Core Cortex A9 ARM CPU
+o 1 GB DDR3 RAM (Standard on Single Core)
+o GB DDR3 RAM (Standard on Quad Core)
+o Bluetooth 2.1+EDR (4.0 BLE) and WiFi 802.11b/g/n onboard radios
+o Gigabit Ethernet (only one)
+price: $175 (Qty 1)
+       $116 (Qty 100)
+https://www.embeddedarm.com/products/TS-4900
