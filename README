@@ -5,8 +5,13 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 asus/
   Asus motherboards
+  https://www.asus.com/
+  ssh://git@github.com/marcilr/asus.git 
 
 links.txt
   Motherboard related links
@@ -24,4 +29,3 @@ supermicro/
 udoo-bolt.txt
   udoo bolt                         
   5.2.22r126460 (x86)
-
