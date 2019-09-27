@@ -18,4 +18,5 @@
 # Motherboards
 #
 # =======================================================
-ssh://git@github.com/marcilr/supermicro   supermicro
+ssh://git@github.com/marcilr/raspberry-pi.git   raspberry-pi
+ssh://git@github.com/marcilr/supermicro         supermicro
