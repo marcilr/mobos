@@ -1,0 +1,10 @@
+#.gitignore
+# Created Fri Sep 27 12:49:08 AKDT 2019	asus/
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+asus/
+raspberry-pi/
+supermicro/
